@@ -1,7 +1,7 @@
 # Cognitive Search com Azure AI
 
 Este repositório documenta o passo a passo para criar e realizar consultas utilizando o serviço Azure AI Search, com integração ao Azure AI Services e Storage Accounts.
-Adendo: Mesmo com o conteúdo das imagens estando em português, decidi colocar as instruções para o site com língua inglesa
+Adendo: Mesmo com o conteúdo das imagens estando em português, decidi colocar as instruções para o site com língua inglesa.
 
 ---
 
